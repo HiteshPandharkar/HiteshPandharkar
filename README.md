@@ -1,4 +1,4 @@
-# Glad to meet you! Hope you are doing great.
+# Hi there! 👋 Glad to meet you! Hope you are doing great.
 
 - 🔭 I’m currently working on The Ames City House Price Prediction Problem.
 - 🌱 I’m currently learning data analytics using Python, Excel, and SQL.
