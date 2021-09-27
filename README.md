@@ -6,7 +6,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/hitesh-pandharkar-342184167/, hiteshp242025@gmail.com, https://www.instagram.com/electrons_and_quarks/
 - 😄 Pronouns: He | Him
 - ⚡ Fun fact: I once wanted to be mechanical engineer and invent the world's first perpetual motion machine(a machine that does not need an external source of energy).
-- 👷‍♂️ What have I done today: Wasted the day in dilemma.
 
 <!--
 **HiteshPandharkar/HiteshPandharkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/hitesh-pandharkar-342184167/, https://www.instagram.com/electrons_and_quarks/
 - 😄 Pronouns: He | Him
 - ⚡ Fun fact: I once wanted to be mechanical engineer and invent the world's first perpetual machine(a machine that does not need an external source of energy).
+- 👷‍♂️ What have I done today: Wasted the day in dilemma.
