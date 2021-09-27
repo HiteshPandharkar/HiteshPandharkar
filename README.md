@@ -1,7 +1,7 @@
 # Hi there! 👋 Glad to meet you! Hope you are doing great.
 
-- 🔭 I’m currently working on The Ames City House Price Prediction Problem.
-- 🌱 I’m currently learning data analytics using Python, Excel, and SQL.
+- 🔭 I’m currently working on The 30 Day Chart Challenge.
+- 🌱 I’m currently learning data analytics using Excel, SQL, Tableau, PowerBI and, Python.
 - 💬 Talk data to me.
 - 📫 How to reach me: https://www.linkedin.com/in/hitesh-pandharkar-342184167/, hiteshp242025@gmail.com, https://www.instagram.com/electrons_and_quarks/
 - 😄 Pronouns: He | Him
