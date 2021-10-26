@@ -1,4 +1,4 @@
-# Hi there! 👋 Glad to meet you! Hope you are doing great.
+# Hi there! 👋 thanks for visiting my profile! Hope you are doing great.
 
 - 🔭 I’m currently working on The 30 Day Chart Challenge.
 - 🌱 I’m currently learning data analytics using Excel, SQL, Tableau, PowerBI and, Python.
